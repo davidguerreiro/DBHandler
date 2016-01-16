@@ -12,7 +12,7 @@ class Db{
 
 		$mysql_server = 'localhost';
 		$mysql_login = 'root';
-		$database_name = 'apitest';
+		$database_name = 'databasename';
 		//$password = '';
 
 		$this->rows = 0;
